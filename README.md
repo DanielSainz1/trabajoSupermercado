@@ -16,3 +16,5 @@ Pasos a seguir de la simulacion: 
 Se colocan en las baldas (edificio--> stock)
 Se venden en las cajas (edificio-->cajas)
 Entrega (mensaje y quitar stock)
+
+Por último pasar la información a Latex
